@@ -1,0 +1,1144 @@
+﻿Log file open, 01/20/19 21:30:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JudgementDayDemo
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.207097
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.254s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.011s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Engine.ini]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Engine.ini]
+[2019.01.20-12.30.30:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Engine.ini]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Engine.ini]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.20-12.30.30:390][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.20-12.30.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Engine.ini]
+[2019.01.20-12.30.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Engine.ini]
+[2019.01.20-12.30.30:396][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.20-12.30.30:396][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.20-12.30.30:397][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:397][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.20-12.30.30:398][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.20-12.30.30:398][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.20-12.30.30:398][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.20-12.30.30:417][  0]LogHAL: Display: Platform has ~ 8 GB [8256249856 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.20-12.30.30:417][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.20-12.30.30:417][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.20-12.30.30:417][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:417][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.20-12.30.30:417][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.20-12.30.30:417][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:417][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.20-12.30.30:417][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:417][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Scalability.ini]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.20-12.30.30:418][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.20-12.30.30:419][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.20-12.30.30:419][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrator/Desktop/1/Saved/Config/Windows/Engine.ini]
+[2019.01.20-12.30.30:419][  0]LogInit: Computer: DESKTOP-MR6LKI9
+[2019.01.20-12.30.30:419][  0]LogInit: User: Administrator
+[2019.01.20-12.30.30:419][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.20-12.30.30:419][  0]LogInit: High frequency timer resolution =2.437504 MHz
+[2019.01.20-12.30.30:419][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx)
+[2019.01.20-12.30.30:419][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.20-12.30.30:419][  0]LogMemory: Process Physical Memory: 104.27 MB used, 104.27 MB peak
+[2019.01.20-12.30.30:419][  0]LogMemory: Process Virtual Memory: 92.75 MB used, 92.75 MB peak
+[2019.01.20-12.30.30:419][  0]LogMemory: Physical Memory: 3224.96 MB used,  4648.81 MB free, 7873.77 MB total
+[2019.01.20-12.30.30:419][  0]LogMemory: Virtual Memory: 4642.83 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.01.20-12.30.30:469][  0]LogInit: Using OS detected language (ko-KR).
+[2019.01.20-12.30.30:469][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.01.20-12.30.30:470][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.01.20-12.30.30:841][  0]LogStreaming: Display: Took  0.372s to InitEngineTextLocalization.
+[2019.01.20-12.30.30:841][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.20-12.30.30:891][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.20-12.30.30:891][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.20-12.30.31:454][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.20-12.30.31:454][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.20-12.30.31:523][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.01.20-12.30.31:523][  0]LogD3D11RHI:       6061/0/3936 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.20-12.30.31:527][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.20-12.30.31:527][  0]LogD3D11RHI:       0/0/3936 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.20-12.30.31:527][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.20-12.30.31:533][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.20-12.30.31:533][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.20-12.30.31:533][  0]LogWindows: EnumDisplayDevices:
+[2019.01.20-12.30.31:533][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.01.20-12.30.31:534][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.20-12.30.31:535][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.20-12.30.31:536][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.20-12.30.31:537][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.20-12.30.31:537][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.01.20-12.30.31:537][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2019.01.20-12.30.31:537][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2019.01.20-12.30.31:537][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2019.01.20-12.30.31:571][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.20-12.30.31:582][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.01.20-12.30.32:072][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.20-12.30.32:089][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.20-12.30.32:106][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.20-12.30.32:123][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.20-12.30.32:141][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.20-12.30.32:158][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.20-12.30.32:175][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.20-12.30.32:191][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.20-12.30.32:200][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:294][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.20-12.30.32:298][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.20-12.30.32:365][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.20-12.30.32:365][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.20-12.30.32:393][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.20-12.30.32:393][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.20-12.30.32:409][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.20-12.30.32:424][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.20-12.30.32:440][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.20-12.30.32:457][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.20-12.30.32:513][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.20-12.30.32:513][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.20-12.30.32:513][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.20-12.30.32:615][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../../Users/Administrator/Desktop/1/Intermediate/Shaders/WorkingDirectory/10948/).
+[2019.01.20-12.30.32:615][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/72C754BA48F8E2D394F115A27DBFD624/'.
+[2019.01.20-12.30.32:618][  0]LogXGEController: Cleaning working directory: C:/Users/Administrator/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.20-12.30.32:618][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.20-12.30.32:618][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.20-12.30.32:618][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.20-12.30.33:230][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.20-12.30.33:285][  0]LogDerivedDataCache: Loaded boot cache 0.05s 72MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.20-12.30.33:285][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.20-12.30.33:285][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Administrator/Desktop/1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.20-12.30.33:285][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.20-12.30.33:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Administrator/Desktop/1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.20-12.30.33:286][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.20-12.30.33:300][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.20-12.30.33:300][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.20-12.30.33:300][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.20-12.30.33:314][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.20-12.30.33:314][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.20-12.30.33:314][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.20-12.30.33:351][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.20-12.30.33:353][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.20-12.30.33:354][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.20-12.30.33:482][  0]LogAssetRegistry: FAssetRegistry took 0.0353 seconds to start up
+[2019.01.20-12.30.33:896][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.20-12.30.34:093][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.20-12.30.34:101][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.20-12.30.34:101][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.20-12.30.34:101][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.20-12.30.34:101][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.20-12.30.34:120][  0]LogNetVersion: JudgementDayDemo 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1552761656)
+[2019.01.20-12.30.34:853][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.184988 seconds
+[2019.01.20-12.30.34:860][  0]LogUObjectArray: 39788 objects as part of root set at end of initial load.
+[2019.01.20-12.30.34:860][  0]LogUObjectAllocator: 6917688 out of 0 bytes used by permanent object pool.
+[2019.01.20-12.30.34:860][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.20-12.30.36:312][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.20-12.30.36:332][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.20-12.30.37:531][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-12.30.37:532][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-12.30.37:535][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-12.30.37:537][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-12.30.37:788][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.20-12.30.37:893][  0]LogOcInput: OculusInput pre-init called
+[2019.01.20-12.30.38:068][  0]LogEngine: Initializing Engine...
+[2019.01.20-12.30.38:069][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.20-12.30.38:071][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.20-12.30.38:071][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.20-12.30.38:071][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.20-12.30.38:071][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.20-12.30.38:370][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.20-12.30.38:387][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.20-12.30.38:404][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.30.38:661][  0]LogInit: FAudioDevice initialized.
+[2019.01.20-12.30.38:662][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.20-12.30.38:729][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.20-12.30.38:738][  0]LogInit: Texture streaming: Enabled
+[2019.01.20-12.30.38:762][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.20-12.30.38:781][  0]LogInit: Transaction tracking system initialized
+[2019.01.20-12.30.38:814][  0]BlueprintLog: New page: 에디터 로드
+[2019.01.20-12.30.38:921][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.01.20-12.30.39:589][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Desktop/1/Content/' took 0.02s
+[2019.01.20-12.30.39:589][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.20-12.30.39:589][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.20-12.30.39:589][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.20-12.30.39:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.20-12.30.39:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.20-12.30.39:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.20-12.30.39:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.20-12.30.39:783][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.01.20-12.30.39:784][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Desktop/1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.20-12.30.39:784][  0]LightingResults: New page: 라이팅 빌드
+[2019.01.20-12.30.39:788][  0]MapCheck: New page: 맵 체크
+[2019.01.20-12.30.39:788][  0]LightingResults: New page: 라이팅 빌드
+[2019.01.20-12.30.40:700][  0]LogNiagara: AreScriptAndSourceSynchronized reference id 0 doesn't match. 58BB2D56487A8ED3126E64940E8969DB != 1B02E3BB4D64458725CFD6987948000A, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2019.01.20-12.30.40:701][  0]LogNiagara: AreScriptAndSourceSynchronized reference id 1 doesn't match. 58BB2D56487A8ED3126E64940E8969DB != 1B02E3BB4D64458725CFD6987948000A, source /Niagara/Modules/Update/Mass/CalculateSizeByMass.CalculateSizeByMass:NiagaraScriptSource_0.NiagaraGraph_0
+[2019.01.20-12.30.40:915][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.30.40:925][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Stage01/JDStage01_GRAYBOX) is flushing async loading
+[2019.01.20-12.30.40:925][  0]LogStreaming: Display: Flushing async loaders.
+[2019.01.20-12.30.41:048][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Stage01/JDStage01_STATIC) is flushing async loading
+[2019.01.20-12.30.41:524][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.20-12.30.41:579][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.20-12.30.41:580][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1.129ms.
+[2019.01.20-12.30.41:580][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.797
+[2019.01.20-12.30.41:701][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.30.41:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.30.41:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.30.41:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.30.41:732][  0]LogCollectionManager: Loaded 0 collections in 0.001468 seconds
+[2019.01.20-12.30.41:773][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Desktop/1/Saved/Collections/' took 0.01s
+[2019.01.20-12.30.41:773][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Desktop/1/Content/Developers/Administrator/Collections/' took 0.01s
+[2019.01.20-12.30.41:773][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Desktop/1/Content/Collections/' took 0.01s
+[2019.01.20-12.30.41:773][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.20-12.30.41:782][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2770 classes and 636 folders.
+[2019.01.20-12.30.41:790][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.20-12.30.41:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:809][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:815][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.20-12.30.41:863][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.20-12.30.41:868][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.20-12.30.41:884][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.01.20-12.30.41:965][  0]LogSlate: Took 0.000418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.20-12.30.41:969][  0]LogSlate: Took 0.002505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.01.20-12.30.41:972][  0]LogSlate: Took 0.002503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.01.20-12.30.41:972][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.20-12.30.41:977][  0]LogSlate: Took 0.000629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.20-12.30.42:067][  0]LogRenderer: Reallocating scene render targets to support 780x436 Format 10 NumSamples 1 (Frame:1).
+[2019.01.20-12.30.42:216][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.20-12.30.42:217][  0]LogLoad: (Engine Initialization) Total time: 13.89 seconds
+[2019.01.20-12.30.42:217][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.20-12.30.42:239][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.01.20-12.30.42:308][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.20-12.30.42:362][  0]LogSlate: Took 0.000458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.20-12.30.42:508][  2]LogNiagara: FNiagaraGlobalReadBuffer::InitRHI
+[2019.01.20-12.30.42:508][  2]LogAssetRegistry: Asset discovery search completed in 9.0487 seconds
+[2019.01.20-12.30.42:511][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.20-12.30.42:511][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.01.20-12.30.50:394][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.31.28:212][703]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.31.28:243][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.31.28:244][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.31.28:244][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.31.28:244][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.31.28:244][703]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:31:28)
+[2019.01.20-12.31.28:257][703]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.31.28:260][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001925s)
+[2019.01.20-12.31.28:260][703]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.31.28:260][703]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.01.20-12.31.28:260][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.003256s)
+[2019.01.20-12.31.28:300][703]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.31.28:380][703]LogInit: FAudioDevice initialized.
+[2019.01.20-12.31.28:388][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.31.28:711][703]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.31.28:725][703]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.31.28
+[2019.01.20-12.31.28:733][703]LogWorld: Bringing up level for play took: 0.012510
+[2019.01.20-12.31.28:759][703]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.01.20-12.31.28:766][703]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.143
+[2019.01.20-12.31.28:767][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.31.28:767][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.31.28:768][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.31.28:797][703]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.20-12.31.35:073][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.31.35:073][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.31.35:074][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.31.35:074][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.31.35:115][ 69]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.31.35:164][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.31.35:165][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.31.35:165][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.31.35:165][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.31.35:228][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.20-12.31.55:901][290]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.20-12.31.55:909][290]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Stage1Monster/Monster2.Monster2
+[2019.01.20-12.31.56:385][290]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.01.20-12.31.57:224][290]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.20-12.31.57:304][291]LogSlate: Took 0.000663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.20-12.32.08:050][929]BlueprintLog: New page: Monster2 컴파일
+[2019.01.20-12.32.08:950][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stage1Monster/Monster2" FILE="../../../../../../Users/Administrator/Desktop/1/Content/Stage1Monster/Monster2.uasset" SILENT=true
+[2019.01.20-12.32.08:994][962]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/1/Saved/Monster23A4FC715450E235DD02BF49D86D75B83.tmp' to '../../../../../../Users/Administrator/Desktop/1/Content/Stage1Monster/Monster2.uasset'
+[2019.01.20-12.32.09:661][  1]LogSlate: Window 'Monster2' being destroyed
+[2019.01.20-12.32.09:665][  1]LogSlate: Window 'Monster2' being destroyed
+[2019.01.20-12.32.12:325][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.32.12:529][166]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Stage1Monster/Monster1.Monster1
+[2019.01.20-12.32.15:388][313]LogSlate: Window 'Monster1' being destroyed
+[2019.01.20-12.32.15:391][313]LogSlate: Window 'Monster1' being destroyed
+[2019.01.20-12.32.19:771][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.32.19:887][567]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.32.19:915][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.32.19:915][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.32.19:915][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.32.19:915][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.32.19:915][567]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:32:19)
+[2019.01.20-12.32.19:915][567]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.32.19:918][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002340s)
+[2019.01.20-12.32.19:918][567]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.32.19:918][567]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.01.20-12.32.19:918][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.003110s)
+[2019.01.20-12.32.19:970][567]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.32.20:049][567]LogInit: FAudioDevice initialized.
+[2019.01.20-12.32.20:057][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.32.20:363][567]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.32.20:376][567]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.32.20
+[2019.01.20-12.32.20:383][567]LogWorld: Bringing up level for play took: 0.012463
+[2019.01.20-12.32.20:407][567]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.502
+[2019.01.20-12.32.20:408][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.32.20:408][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.32.20:408][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.32.27:700][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.32.27:701][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.32.27:701][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.32.27:701][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.32.27:734][995]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.32.27:785][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.32.27:785][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.32.27:785][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.32.27:785][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.32.27:855][996]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.20-12.32.28:855][ 53]LogEditorViewport: Clicking on Actor (LMB): Monster1_C (Monster1)
+[2019.01.20-12.32.30:901][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.32.31:225][190]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Stage1Monster/Monster1.Monster1
+[2019.01.20-12.32.34:981][388]LogSlate: Window 'Monster1' being destroyed
+[2019.01.20-12.32.34:985][388]LogSlate: Window 'Monster1' being destroyed
+[2019.01.20-12.32.35:694][426]LogEditorViewport: Clicking on Actor (LMB): Monster2_C (Monster2)
+[2019.01.20-12.32.36:358][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.32.36:513][470]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Stage1Monster/Monster2.Monster2
+[2019.01.20-12.32.39:660][634]BlueprintLog: New page: Monster2 컴파일
+[2019.01.20-12.32.40:329][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stage1Monster/Monster2" FILE="../../../../../../Users/Administrator/Desktop/1/Content/Stage1Monster/Monster2.uasset" SILENT=true
+[2019.01.20-12.32.40:394][647]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/1/Saved/Monster26A295E0D45EDAD2446CD5A8BB444DEF6.tmp' to '../../../../../../Users/Administrator/Desktop/1/Content/Stage1Monster/Monster2.uasset'
+[2019.01.20-12.32.41:547][714]LogSlate: Window 'Monster2' being destroyed
+[2019.01.20-12.32.41:550][714]LogSlate: Window 'Monster2' being destroyed
+[2019.01.20-12.32.42:825][785]LogEditorViewport: Clicking on Actor (LMB): Monster1_C (Monster1)
+[2019.01.20-12.32.48:088][ 81]LogEditorViewport: Clicking on Actor (LMB): Monster2_C (Monster2)
+[2019.01.20-12.32.52:024][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor425)
+[2019.01.20-12.32.52:636][332]LogEditorViewport: Clicking on Actor (LMB): Monster1_C (Monster1)
+[2019.01.20-12.32.59:912][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.32.59:995][738]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.33.00:026][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.00:026][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.00:026][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.00:026][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.33.00:026][738]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:33:00)
+[2019.01.20-12.33.00:026][738]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.33.00:029][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002488s)
+[2019.01.20-12.33.00:029][738]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.33.00:029][738]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2019.01.20-12.33.00:029][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.003324s)
+[2019.01.20-12.33.00:078][738]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.33.00:158][738]LogInit: FAudioDevice initialized.
+[2019.01.20-12.33.00:165][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.33.00:463][738]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.33.00:474][738]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.33.00
+[2019.01.20-12.33.00:482][738]LogWorld: Bringing up level for play took: 0.014046
+[2019.01.20-12.33.00:509][738]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.399
+[2019.01.20-12.33.00:511][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.00:511][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.00:511][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.05:005][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.05:006][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.05:006][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.05:006][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.33.05:036][  1]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.33.05:086][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.33.05:086][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.05:086][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.05:086][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.05:148][  2]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.20-12.33.06:627][ 88]LogEditorViewport: Clicking on Actor (LMB): Monster2_C (Monster2)
+[2019.01.20-12.33.14:116][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.33.14:481][526]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Stage1Monster/Monster2.Monster2
+[2019.01.20-12.33.18:329][721]BlueprintLog: New page: Monster2 컴파일
+[2019.01.20-12.33.19:144][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stage1Monster/Monster2" FILE="../../../../../../Users/Administrator/Desktop/1/Content/Stage1Monster/Monster2.uasset" SILENT=true
+[2019.01.20-12.33.19:199][743]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/1/Saved/Monster2EBBD60CC4820FC01BFE9E8BAA403FDEE.tmp' to '../../../../../../Users/Administrator/Desktop/1/Content/Stage1Monster/Monster2.uasset'
+[2019.01.20-12.33.20:307][808]LogSlate: Window 'Monster2' being destroyed
+[2019.01.20-12.33.20:310][808]LogSlate: Window 'Monster2' being destroyed
+[2019.01.20-12.33.22:149][905]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.33.22:174][905]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.22:174][905]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.22:174][905]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.22:174][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.33.22:175][905]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:33:22)
+[2019.01.20-12.33.22:175][905]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.33.22:177][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002128s)
+[2019.01.20-12.33.22:177][905]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.33.22:177][905]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2019.01.20-12.33.22:177][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.002795s)
+[2019.01.20-12.33.22:225][905]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.33.22:305][905]LogInit: FAudioDevice initialized.
+[2019.01.20-12.33.22:312][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.33.22:616][905]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.33.22:619][905]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.33.22
+[2019.01.20-12.33.22:623][905]LogWorld: Bringing up level for play took: 0.005537
+[2019.01.20-12.33.22:642][905]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.267
+[2019.01.20-12.33.22:643][905]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.22:643][905]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.22:643][905]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.22:738][906]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098731 > MaxSimulationTimeStep (0.050) for 'Monster2_2', movement 'Walking'
+[2019.01.20-12.33.32:927][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.32:927][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.32:927][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.32:928][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.33.32:962][508]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.33.33:016][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.33.33:017][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.33:017][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.33:017][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.33:103][509]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.20-12.33.34:454][586]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.33.34:487][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.34:487][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.34:487][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.34:487][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.33.34:487][586]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:33:34)
+[2019.01.20-12.33.34:487][586]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.33.34:489][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002206s)
+[2019.01.20-12.33.34:490][586]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.33.34:490][586]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2019.01.20-12.33.34:490][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.003029s)
+[2019.01.20-12.33.34:536][586]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.33.34:614][586]LogInit: FAudioDevice initialized.
+[2019.01.20-12.33.34:621][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.33.34:910][586]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.33.34:916][586]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.33.34
+[2019.01.20-12.33.34:919][586]LogWorld: Bringing up level for play took: 0.006460
+[2019.01.20-12.33.34:939][586]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.031
+[2019.01.20-12.33.34:941][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.34:941][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.34:941][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.35:024][587]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098731 > MaxSimulationTimeStep (0.050) for 'Monster2_2', movement 'Walking'
+[2019.01.20-12.33.44:777][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.44:777][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.44:777][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.44:777][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.33.44:813][168]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.33.44:863][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.33.44:865][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.33.44:865][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.33.44:866][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.33.44:968][169]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.20-12.33.45:792][215]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Stage1Monster/Monster2.Monster2
+[2019.01.20-12.34.03:718][246]BlueprintLog: New page: Monster2 컴파일
+[2019.01.20-12.34.04:959][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stage1Monster/Monster2" FILE="../../../../../../Users/Administrator/Desktop/1/Content/Stage1Monster/Monster2.uasset" SILENT=true
+[2019.01.20-12.34.05:017][300]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/1/Saved/Monster2BAF659FC4DFEA3A07841BF85CB864BA6.tmp' to '../../../../../../Users/Administrator/Desktop/1/Content/Stage1Monster/Monster2.uasset'
+[2019.01.20-12.34.05:724][341]LogSlate: Window 'Monster2' being destroyed
+[2019.01.20-12.34.05:728][341]LogSlate: Window 'Monster2' being destroyed
+[2019.01.20-12.34.07:073][399]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/1/Saved/ThirdPersonExampleMap23B8A4314B8ADC619FEC0796334CA423.tmp' to '../../../../../../Users/Administrator/Desktop/1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.01.20-12.34.07:170][399]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/1/Saved/ThirdPersonExampleMap_BuiltDataEA43F1504D5E4963FC682697A8AC5708.tmp' to '../../../../../../Users/Administrator/Desktop/1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.01.20-12.34.08:433][473]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.34.08:465][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.34.08:465][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.34.08:465][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.34.08:465][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.34.08:466][473]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:34:08)
+[2019.01.20-12.34.08:466][473]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.34.08:468][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002199s)
+[2019.01.20-12.34.08:469][473]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.34.08:469][473]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2019.01.20-12.34.08:469][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.002990s)
+[2019.01.20-12.34.08:512][473]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.34.08:590][473]LogInit: FAudioDevice initialized.
+[2019.01.20-12.34.08:597][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.34.08:894][473]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.34.08:898][473]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.34.08
+[2019.01.20-12.34.08:902][473]LogWorld: Bringing up level for play took: 0.006014
+[2019.01.20-12.34.08:921][473]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.012
+[2019.01.20-12.34.08:922][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.34.08:922][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.34.08:922][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.34.09:021][474]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098731 > MaxSimulationTimeStep (0.050) for 'Monster2_2', movement 'Walking'
+[2019.01.20-12.34.15:823][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.34.15:823][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.34.15:823][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.34.15:824][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.34.15:860][878]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.34.15:913][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.34.15:914][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.34.15:914][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.34.15:914][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.34.15:993][879]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.20-12.34.18:776][ 39]LogEditorViewport: Clicking on Actor (LMB): Monster2_C (Monster2)
+[2019.01.20-12.34.33:861][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.34.33:977][904]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.34.34:007][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.34.34:007][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.34.34:007][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.34.34:007][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.34.34:007][904]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:34:34)
+[2019.01.20-12.34.34:008][904]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.34.34:010][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002097s)
+[2019.01.20-12.34.34:010][904]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.34.34:010][904]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2019.01.20-12.34.34:010][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.002767s)
+[2019.01.20-12.34.34:056][904]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.34.34:133][904]LogInit: FAudioDevice initialized.
+[2019.01.20-12.34.34:139][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.34.34:427][904]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.34.34:431][904]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.34.34
+[2019.01.20-12.34.34:434][904]LogWorld: Bringing up level for play took: 0.005519
+[2019.01.20-12.34.34:453][904]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.456
+[2019.01.20-12.34.34:454][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.34.34:454][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.34.34:454][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.34.34:541][905]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098731 > MaxSimulationTimeStep (0.050) for 'Monster2_2', movement 'Walking'
+[2019.01.20-12.34.38:776][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.34.38:776][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.34.38:777][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.34.38:777][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.34.38:830][158]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.34.38:879][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.34.38:880][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.34.38:881][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.34.38:881][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.34.38:958][159]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.01.20-12.34.49:017][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor467)
+[2019.01.20-12.34.51:821][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor409)
+[2019.01.20-12.34.55:085][ 96]Cmd: TRANSACTION UNDO
+[2019.01.20-12.34.55:085][ 96]LogEditorTransaction: Undo 액터 이동
+[2019.01.20-12.34.55:659][123]Cmd: TRANSACTION UNDO
+[2019.01.20-12.34.55:659][123]LogEditorTransaction: Undo 액터 클릭
+[2019.01.20-12.34.56:221][155]Cmd: TRANSACTION UNDO
+[2019.01.20-12.34.56:221][155]LogEditorTransaction: Undo 액터 이동
+[2019.01.20-12.35.00:520][402]Cmd: TRANSACTION UNDO
+[2019.01.20-12.35.00:520][402]LogEditorTransaction: Undo 액터 이동
+[2019.01.20-12.35.01:139][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor533)
+[2019.01.20-12.35.01:914][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor532)
+[2019.01.20-12.35.03:802][581]LogEditorViewport: Clicking on Actor (LMB): Monster1_C (Monster1)
+[2019.01.20-12.35.15:986][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor540)
+[2019.01.20-12.35.16:695][316]LogEditorViewport: Clicking on Actor (LMB): Monster2_C (Monster2)
+[2019.01.20-12.35.21:574][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.35.21:690][608]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.35.21:728][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.35.21:729][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.35.21:729][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.35.21:729][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.35.21:729][608]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:35:21)
+[2019.01.20-12.35.21:729][608]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.35.21:731][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002281s)
+[2019.01.20-12.35.21:732][608]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.35.21:732][608]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2019.01.20-12.35.21:732][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.003017s)
+[2019.01.20-12.35.21:778][608]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.35.21:855][608]LogInit: FAudioDevice initialized.
+[2019.01.20-12.35.21:863][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.35.22:175][608]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.35.22:187][608]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.35.22
+[2019.01.20-12.35.22:194][608]LogWorld: Bringing up level for play took: 0.013266
+[2019.01.20-12.35.22:214][608]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.305
+[2019.01.20-12.35.22:215][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.35.22:215][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.35.22:215][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.35.22:315][609]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098731 > MaxSimulationTimeStep (0.050) for 'Monster2_2', movement 'Walking'
+[2019.01.20-12.35.36:592][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.35.36:592][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.35.36:592][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.35.36:593][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.35.36:631][461]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.35.36:682][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.35.36:683][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.35.36:683][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.35.36:683][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.35.36:754][462]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.01.20-12.35.46:619][716]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.20-12.35.48:151][807]LogEditorViewport: Clicking on Actor (LMB): Monster2_C (Monster2)
+[2019.01.20-12.35.50:963][971]Cmd: DELETE
+[2019.01.20-12.35.50:963][971]Cmd: ACTOR DELETE
+[2019.01.20-12.35.50:993][971]LogEditorActor: Deleted Actor: Monster2_C
+[2019.01.20-12.35.51:027][971]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.01.20-12.35.52:087][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.35.57:484][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.35.57:603][350]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.35.57:635][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.35.57:635][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.35.57:635][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.35.57:635][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.35.57:635][350]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:35:57)
+[2019.01.20-12.35.57:636][350]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.35.57:638][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002071s)
+[2019.01.20-12.35.57:638][350]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.35.57:638][350]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2019.01.20-12.35.57:638][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.002885s)
+[2019.01.20-12.35.57:686][350]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.35.57:768][350]LogInit: FAudioDevice initialized.
+[2019.01.20-12.35.57:777][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.35.58:082][350]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.35.58:094][350]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.35.58
+[2019.01.20-12.35.58:103][350]LogWorld: Bringing up level for play took: 0.014440
+[2019.01.20-12.35.58:127][350]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.219
+[2019.01.20-12.35.58:129][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.35.58:129][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.35.58:129][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.09:791][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.09:792][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.09:792][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.09:792][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.36.09:826][ 41]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.36.09:879][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.36.09:880][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.09:880][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.09:880][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.09:955][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.01.20-12.36.16:629][221]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.20-12.36.20:516][346]LogEditorViewport: Clicking on Actor (LMB): Monster1_C (Monster2)
+[2019.01.20-12.36.21:411][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.36.21:527][402]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.36.21:557][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.21:557][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.21:557][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.21:557][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.36.21:558][402]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:36:21)
+[2019.01.20-12.36.21:558][402]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.36.21:560][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002202s)
+[2019.01.20-12.36.21:560][402]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.36.21:561][402]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2019.01.20-12.36.21:561][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.002859s)
+[2019.01.20-12.36.21:606][402]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.36.21:685][402]LogInit: FAudioDevice initialized.
+[2019.01.20-12.36.21:694][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.36.21:994][402]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.36.21:998][402]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.36.21
+[2019.01.20-12.36.22:001][402]LogWorld: Bringing up level for play took: 0.005614
+[2019.01.20-12.36.22:019][402]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.11
+[2019.01.20-12.36.22:020][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.22:020][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.22:020][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.27:992][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.27:992][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.27:992][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.27:993][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.36.28:027][754]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.36.28:081][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.36.28:082][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.28:083][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.28:083][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.28:161][755]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.01.20-12.36.29:008][803]LogEditorViewport: Clicking on Actor (LMB): Monster1_C (Monster1)
+[2019.01.20-12.36.32:309][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.36.32:440][998]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2019.01.20-12.36.32:472][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.32:472][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.32:472][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.32:473][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.36.32:473][998]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:36:32)
+[2019.01.20-12.36.32:473][998]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.36.32:475][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001997s)
+[2019.01.20-12.36.32:475][998]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.36.32:475][998]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2019.01.20-12.36.32:475][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.002585s)
+[2019.01.20-12.36.32:521][998]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.36.32:600][998]LogInit: FAudioDevice initialized.
+[2019.01.20-12.36.32:607][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.36.32:904][998]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.36.32:907][998]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.36.32
+[2019.01.20-12.36.32:911][998]LogWorld: Bringing up level for play took: 0.005867
+[2019.01.20-12.36.32:939][998]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.03
+[2019.01.20-12.36.32:940][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.32:940][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.32:941][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.59:202][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.59:202][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.59:203][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.59:203][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.36.59:242][536]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.36.59:291][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.36.59:292][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.36.59:292][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.36.59:292][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.36.59:363][537]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.20-12.37.03:384][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.03:384][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.03:384][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.03:384][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.37.03:384][773]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:37:03)
+[2019.01.20-12.37.03:385][773]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.37.03:387][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002050s)
+[2019.01.20-12.37.03:387][773]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.37.03:387][773]LogPlayLevel: PIE: World Init took: (0.000491s)
+[2019.01.20-12.37.03:387][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.002697s)
+[2019.01.20-12.37.03:432][773]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.37.03:510][773]LogInit: FAudioDevice initialized.
+[2019.01.20-12.37.03:517][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.37.03:806][773]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.37.03:814][773]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.37.03
+[2019.01.20-12.37.03:819][773]LogWorld: Bringing up level for play took: 0.009111
+[2019.01.20-12.37.03:842][773]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.933
+[2019.01.20-12.37.03:843][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.03:844][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.03:844][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.05:582][868]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.37.05:588][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.05:589][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.05:589][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.05:638][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.37.05:639][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.05:639][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.05:639][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.05:742][869]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.01.20-12.37.10:582][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.10:583][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.10:583][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.10:583][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.37.10:583][155]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:37:10)
+[2019.01.20-12.37.10:583][155]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.37.10:585][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002247s)
+[2019.01.20-12.37.10:586][155]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.37.10:586][155]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2019.01.20-12.37.10:586][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.003267s)
+[2019.01.20-12.37.10:631][155]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.37.10:709][155]LogInit: FAudioDevice initialized.
+[2019.01.20-12.37.10:750][155]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.37.10:978][155]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.37.10
+[2019.01.20-12.37.10:982][155]LogWorld: Bringing up level for play took: 0.005939
+[2019.01.20-12.37.10:997][155]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.088
+[2019.01.20-12.37.10:998][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.10:998][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.10:998][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.14:744][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.14:744][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.14:744][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.14:745][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.37.14:808][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.37.14:809][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.14:809][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.14:810][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.14:870][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.37.14:904][377]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.01.20-12.37.15:604][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.20-12.37.19:611][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.19:611][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.19:611][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.19:611][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.20-12.37.19:611][654]PIE: New page: PIE 세션: ThirdPersonExampleMap (2019. 1. 21. 오전 6:37:19)
+[2019.01.20-12.37.19:611][654]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.20-12.37.19:613][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002018s)
+[2019.01.20-12.37.19:614][654]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.37.19:614][654]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2019.01.20-12.37.19:614][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.002669s)
+[2019.01.20-12.37.19:662][654]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.20-12.37.19:748][654]LogInit: FAudioDevice initialized.
+[2019.01.20-12.37.19:749][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.20-12.37.19:754][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.37.20:034][654]LogLoad: Game class is 'JDGameMode_C'
+[2019.01.20-12.37.20:046][654]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.20-21.37.20
+[2019.01.20-12.37.20:055][654]LogWorld: Bringing up level for play took: 0.014025
+[2019.01.20-12.37.20:087][654]PIE: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.178
+[2019.01.20-12.37.20:089][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.20:089][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.20:089][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.28:508][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.28:508][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.28:509][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.28:509][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.20-12.37.28:549][152]LogSlate: Window 'JudgementDayDemo 게임 미리보기 Standalone (64-비트/PCD3D_SM5)' being destroyed
+[2019.01.20-12.37.28:603][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.20-12.37.28:604][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.20-12.37.28:604][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX' with GeneratedClass '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.JDStage01_GRAYBOX'
+[2019.01.20-12.37.28:604][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC' with GeneratedClass '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC_C' with ClassGeneratedBy '/Game/Maps/Stage01/JDStage01_STATIC.JDStage01_STATIC:PersistentLevel.JDStage01_STATIC'
+[2019.01.20-12.37.28:667][153]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.01.20-12.37.46:885][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.37.48:951][323]LogAIModule: Creating AISystem for world JDStage01
+[2019.01.20-12.37.48:989][323]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Stage01/JDStage01.JDStage01
+[2019.01.20-12.37.50:315][323]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.01.20-12.37.50:410][323]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: JDStage01_GRAYBOX, Actor: /Game/Maps/Stage01/JDStage01_GRAYBOX.JDStage01_GRAYBOX:PersistentLevel.REINST_JDStage01_GRAYBOX_C_0
+[2019.01.20-12.37.50:619][323]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/1/Saved/JDStage01_GRAYBOX13BB832A4F3DC33C3C1D099E9431A784.tmp' to '../../../../../../Users/Administrator/Desktop/1/Content/Maps/Stage01/JDStage01_GRAYBOX.umap'
+[2019.01.20-12.37.50:917][323]LogFileHelpers: Saving map 'JDStage01_GRAYBOX' took 0.592
+[2019.01.20-12.37.51:173][323]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/1/Saved/ThirdPersonExampleMap574E806840AF21F507FD86922E2BC578.tmp' to '../../../../../../Users/Administrator/Desktop/1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.01.20-12.37.51:234][323]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.317
+[2019.01.20-12.37.51:238][323]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Desktop/1/Content/Maps/Stage01/JDStage01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.20-12.37.51:238][323]LightingResults: New page: 라이팅 빌드
+[2019.01.20-12.37.51:238][323]LoadErrors: New page: 맵 로드중: JDStage01.umap
+[2019.01.20-12.37.51:260][323]MapCheck: New page: 맵 체크
+[2019.01.20-12.37.51:260][323]LightingResults: New page: 라이팅 빌드
+[2019.01.20-12.37.51:452][323]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.20-12.37.51:537][323]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.20-12.37.51:537][323]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.441ms.
+[2019.01.20-12.37.51:537][323]LogFileHelpers: Loading map 'JDStage01' took 0.303
+[2019.01.20-12.37.51:644][323]LogAIModule: Creating AISystem for world JDStage01_GRAYBOX
+[2019.01.20-12.37.51:784][323]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.20-12.37.59:227][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.20-12.38.05:608][143]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.01.20-12.38.05:640][143]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Desktop/1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.20-12.38.05:640][143]LightingResults: New page: 라이팅 빌드
+[2019.01.20-12.38.05:641][143]LoadErrors: New page: 맵 로드중: ThirdPersonExampleMap.umap
+[2019.01.20-12.38.05:642][143]MapCheck: New page: 맵 체크
+[2019.01.20-12.38.05:642][143]LightingResults: New page: 라이팅 빌드
+[2019.01.20-12.38.05:749][143]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Stage01/JDStage01_GRAYBOX) is flushing async loading
+[2019.01.20-12.38.05:749][143]LogStreaming: Display: Flushing async loaders.
+[2019.01.20-12.38.05:781][143]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Stage01/JDStage01_STATIC) is flushing async loading
+[2019.01.20-12.38.06:311][143]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.20-12.38.06:428][143]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.20-12.38.06:429][143]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1.168ms.
+[2019.01.20-12.38.06:430][143]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.791
+[2019.01.20-12.38.25:091][772]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} 애셋이 이미 존재합니다. 대체할까요?".
+[2019.01.20-12.38.26:052][772]LogSlate: Window '메시지' being destroyed
+[2019.01.20-12.38.26:058][772]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2019.01.20-12.38.26:125][772]LogAIModule: Creating AISystem for world JDStage01
+[2019.01.20-12.38.27:061][772]LogAIModule: Creating AISystem for world JDStage01
+[2019.01.20-12.38.27:069][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage01/JDStage01" FILE="../../../../../../Users/Administrator/Desktop/1/Content/Maps/Stage01/JDStage01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.20-12.38.27:288][772]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/Maps/Stage01/JDStage01. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.20-12.38.28:039][772]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.20-12.38.28:043][772]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
